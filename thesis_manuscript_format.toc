@@ -1,0 +1,19 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Introduction to the Introduction}{1}
+\contentsline {chapter}{\numberline {2}Methods}{3}
+\contentsline {section}{\numberline {2.1}Input}{3}
+\contentsline {subsection}{\numberline {2.1.1}Genome data}{3}
+\contentsline {subsection}{\numberline {2.1.2}Gene structure data}{3}
+\contentsline {subsection}{\numberline {2.1.3}Variant data}{3}
+\contentsline {section}{\numberline {2.2}Output}{4}
+\contentsline {section}{\numberline {2.3}How it works}{5}
+\contentsline {section}{\numberline {2.4}Other issues}{5}
+\contentsline {subsection}{\numberline {2.4.1}how to get amino acid}{5}
+\contentsline {subsection}{\numberline {2.4.2}strand}{5}
+\contentsline {chapter}{\numberline {3}Result}{7}
+\contentsline {section}{\numberline {3.1}Running time}{7}
+\contentsline {section}{\numberline {3.2}Memory cost}{7}
+\contentsline {section}{\numberline {3.3}success rate}{7}
+\contentsline {chapter}{Bibliography}{7}
+\contentsline {chapter}{Appendices}{8}
+\contentsline {app}{\numberline {A}Redundancy}{9}
