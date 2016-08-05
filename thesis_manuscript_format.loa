@@ -2,7 +2,9 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {algorithm}{\numberline {1}{\ignorespaces \textsc {Variant Annotation}}}{6}
+\contentsline {algorithm}{\numberline {1}{\ignorespaces \textsc {Variant Annotation}}}{7}
+\contentsline {algorithm}{\numberline {2}{\ignorespaces \textsc {Array based searching}}}{8}
+\contentsline {algorithm}{\numberline {3}{\ignorespaces \textsc {Tree based searching}}}{9}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

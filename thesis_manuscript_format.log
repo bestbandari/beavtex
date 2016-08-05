@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.2)  2 AUG 2016 16:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.2)  5 AUG 2016 01:36
 entering extended mode
 **./thesis_manuscript_format.tex
 (thesis_manuscript_format.tex
@@ -506,19 +506,19 @@ subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
 ) (thesis_manuscript_format.aux)
 \openout1 = `thesis_manuscript_format.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 31.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -555,23 +555,23 @@ G,.JBIG2,.JB2,.eps]
 [1
 
 ] [2{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 30.
+LaTeX Font Info:    Try loading font information for U+msa on input line 32.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 30.
+LaTeX Font Info:    Try loading font information for U+msb on input line 32.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 30.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 32.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 32.
  [3
 
 ] [4
@@ -631,18 +631,13 @@ $[]$
 
 
 Chapter 1.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
-
-LaTeX Warning: Citation `matrix' on page 1 undefined on input line 35.
-
 <./pic/type.png, id=32, 748.7975pt x 320.19624pt>
 File: ./pic/type.png Graphic file (type png)
  <use ./pic/type.png>
-Package pdftex.def Info: ./pic/type.png used on input line 39.
+Package pdftex.def Info: ./pic/type.png used on input line 45.
 (pdftex.def)             Requested size: 449.28197pt x 192.11922pt.
 
-Overfull \hbox (30.11575pt too wide) in paragraph at lines 39--40
+Overfull \hbox (30.11575pt too wide) in paragraph at lines 45--46
  [][] 
  []
 
@@ -652,89 +647,92 @@ Overfull \hbox (30.11575pt too wide) in paragraph at lines 39--40
 
 
 
- <./pic/type.png>] [2]
+ <./pic/type.png>] [2] [3]
 Chapter 2.
-<./pic/genome.png, id=42, 560.0925pt x 154.5775pt>
+<./pic/genome.png, id=44, 560.0925pt x 154.5775pt>
 File: ./pic/genome.png Graphic file (type png)
  <use ./pic/genome.png>
-Package pdftex.def Info: ./pic/genome.png used on input line 74.
+Package pdftex.def Info: ./pic/genome.png used on input line 102.
 (pdftex.def)             Requested size: 448.0746pt x 123.66214pt.
 
-Overfull \hbox (28.90839pt too wide) in paragraph at lines 74--75
+Overfull \hbox (28.90839pt too wide) in paragraph at lines 102--103
  [][] 
  []
 
-<./pic/gtf.png, id=43, 991.705pt x 234.8775pt>
+<./pic/gtf.png, id=45, 991.705pt x 234.8775pt>
 File: ./pic/gtf.png Graphic file (type png)
  <use ./pic/gtf.png>
-Package pdftex.def Info: ./pic/gtf.png used on input line 83.
+Package pdftex.def Info: ./pic/gtf.png used on input line 111.
 (pdftex.def)             Requested size: 595.0276pt x 140.92758pt.
 
-Overfull \hbox (175.86139pt too wide) in paragraph at lines 83--84
+Overfull \hbox (175.86139pt too wide) in paragraph at lines 111--112
  [][] 
  []
 
-<./pic/vcf.png, id=44, 889.3225pt x 157.58875pt>
+<./pic/vcf.png, id=46, 889.3225pt x 157.58875pt>
 File: ./pic/vcf.png Graphic file (type png)
  <use ./pic/vcf.png>
-Package pdftex.def Info: ./pic/vcf.png used on input line 94.
+Package pdftex.def Info: ./pic/vcf.png used on input line 122.
 (pdftex.def)             Requested size: 533.59761pt x 94.55397pt.
 
-Overfull \hbox (114.4314pt too wide) in paragraph at lines 94--95
+Overfull \hbox (114.4314pt too wide) in paragraph at lines 122--123
  [][] 
  []
 
-[3
+[4
 
- <./pic/genome.png>] <./pic/ann.png, id=49, 663.47874pt x 16.06pt>
+ <./pic/genome.png>] <./pic/ann.png, id=52, 663.47874pt x 16.06pt>
 File: ./pic/ann.png Graphic file (type png)
 
 <use ./pic/ann.png>
-Package pdftex.def Info: ./pic/ann.png used on input line 105.
+Package pdftex.def Info: ./pic/ann.png used on input line 133.
 (pdftex.def)             Requested size: 464.43195pt x 11.24191pt.
 
-Overfull \hbox (45.26573pt too wide) in paragraph at lines 105--106
+Overfull \hbox (45.26573pt too wide) in paragraph at lines 133--134
  [][] 
  []
 
-[4 <./pic/gtf.png> <./pic/vcf.png> <./pic/ann.png>]
-
-LaTeX Warning: Float too large for page by 46.92747pt on input line 179.
+[5 <./pic/gtf.png> <./pic/vcf.png> <./pic/ann.png>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 150.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5] [6]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6]
+Overfull \vbox (8.19241pt too high) has occurred while \output is active []
+
+
+[7] [8] [9] [10]
 Chapter 3.
 No file thesis_manuscript_format.bbl.
-[7
+[11
 
-] [8
+] [12
 
 ]
 Appendix A.
-[9
+[13
 
 
-] [10
+] [14
 
-] (thesis_manuscript_format.aux)
-
-LaTeX Warning: There were undefined references.
-
- )
+] (thesis_manuscript_format.aux) )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 1061 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 11499 strings out of 493335
- 200607 string characters out of 3136657
- 242173 words of memory out of 3000000
- 14890 multiletter control sequences out of 15000+200000
+ 11515 strings out of 493335
+ 200876 string characters out of 3136657
+ 245209 words of memory out of 3000000
+ 14906 multiletter control sequences out of 15000+200000
  16598 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,14n,40p,10393b,1752s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,14n,40p,10393b,1749s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.
 enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pf
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
@@ -743,9 +741,9 @@ C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program
  Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86
 )/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis_manuscript_format.pdf (19 pages, 219198 bytes).
+Output written on thesis_manuscript_format.pdf (23 pages, 231527 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
+ 116 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
